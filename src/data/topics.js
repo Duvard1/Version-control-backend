@@ -1,7 +1,7 @@
 module.exports = [
   {
     id: 1,
-    title: "Antes del versionamiento xdddd",
+    title: "Antes del versionamiento :ccccc",
     description: "Código enviado por correo, USB o archivos duplicados. Problemas de sobrescritura y sin historial.",
     link: "https://git-scm.com/"
   },
